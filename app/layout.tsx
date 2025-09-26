@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Yo'lchiyev Muhammad ",
-  description: "Created with M17",
+  description: "Creative Partfolio",
   generator: "mrzyvl7",
   icons: {
     icon: "/logo.svg",
