@@ -11,14 +11,14 @@ interface Skill {
 }
 
 const skills: Skill[] = [
-  { name: "HTML CSS", level: 100, category: "frontend" },
+  { name: "HTML CSS", level: 95, category: "frontend" },
   { name: "React JS", level: 95, category: "frontend" },
-  { name: "Tailwind CSS", level: 95, category: "frontend" },
   { name: "Next JS", level: 95, category: "frontend" },
+  { name: "Tailwind CSS", level: 95, category: "frontend" },
   { name: "TypeScript", level: 90, category: "backend" },
   { name: "JavaScript", level: 90, category: "backend" },
-  { name: "Nest JS", level: 55, category: "backend" },
   { name: "Node JS", level: 55, category: "backend" },
+  { name: "Nest JS", level: 55, category: "backend" },
 ];
 
 const TerminalSkills: React.FC = () => {

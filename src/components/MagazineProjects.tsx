@@ -66,6 +66,15 @@ const projects: Project[] = [
     liveUrl: "https://post-pilot-navy.vercel.app/",
     githubUrl: "https://github.com/mirzayevmuhammad/Post-Pilot",
     featured: false,
+  },    {
+    id: 6,
+    title: "Furniro",
+    description: "Modern responsive furniture website with elegant design..",
+    image: "/furniro.png",
+    technologies: ["React",  "Tailwind CSS"],
+    liveUrl: "https://furniro-m17.vercel.app/shop",
+    githubUrl: "https://github.com/mirzayevmuhammad/Post-Pilot",
+    featured: false,
   },
 ];
 
