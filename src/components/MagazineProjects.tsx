@@ -72,8 +72,8 @@ const projects: Project[] = [
     description: "Modern responsive furniture website with elegant design..",
     image: "/furniro.png",
     technologies: ["React",  "Tailwind CSS"],
-    liveUrl: "https://furniro-m17.vercel.app/shop",
-    githubUrl: "https://github.com/mirzayevmuhammad/Post-Pilot",
+    liveUrl: "https://furniro-m17.vercel.app",
+    githubUrl: "https://github.com/mirzayevmuhammad/Furniro",
     featured: false,
   },
 ];
